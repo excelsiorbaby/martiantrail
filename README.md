@@ -114,4 +114,10 @@ A game where you go to Mars.  Ha!
 // Even further, there could be a minimum amount of time between launches, say 2 weeks between.  There may be a 3-month window of time to launch at each parahelion - so the player would have to carefully time it to get 5 launches in there (still kind of boring).  The trick could be that the moon gets in the way at certain dates - although I think the moon moves faster than that and it would get complex too fast.  It doesn't have to be 100% realistic, but we're going for high 90% at least.
 // All that said, the idea behind trajectories is to instill in the player that there is a short period of time in which Earth and Mars are closest together.  It's an educational game, after all.  The player's simple calculcations to find the ideal trajectory should inform them on the basic mission plan for SLS.
 
+**Distance**
+// As each supply mission departs on its trajectory, there will be a countdown showing the time and number of miles (kilometers?  nautical miles?) remaining on the journey.  Supply missions are not piloted by the player, but are affected by the RNG.
+// A possible minigame could mimic the journey down the Snake River, where the player must pilot the ship between asteroids using the directional pad.  I find the asteroid stuff a bit cliche, so i'm not stuck on this, but otherwise the game is probably a bit dull.
+// I'm more interested in a slightly more complex trajectory planning minigame, where the player must remember and adjust to any modifications to the trajectory.  However, I don't want to get into Kerbal territory, or anything that requires more than a directional pad or point-and-shoot interface.
 
+**Colonization**
+// The intended end of the game involves landing on Mars and setting up a colony.  
