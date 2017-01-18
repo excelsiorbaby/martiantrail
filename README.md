@@ -122,3 +122,16 @@ A game where you go to Mars.  Ha!
 
 **Colonization**
 // The intended end of the game involves landing on Mars and setting up a colony.  
+
+**Player Console**
+// During the game, the player will need to see certain information.
+* Solar System Map (zoomed) - shows the player the relative position of their ships, Earth, Mars, the Moon, perhaps some of the asteroids, space station? - but most importantly, it will display their chosen trajectory and the position of the manned ship along it.  Of course, all this stuff is moving throughout the journey.  Finding a way to accurately, understandably display the information will be key.  Perhaps, a grid-based system.
+* Supply Mission statuses - each supply ship will have departed on its trajectory and needs to display its fuel level, days remaining, miles remaining, and health.
+* Crew statuses - each crew member has its own health counter, and may have accumulated bonus/negative effects.  There are also multiple roles.  Dead crew members should still be displayed - although as a skull.
+* Ship status - the crew ship will have an overall health rating and gauges for the supplies on board.
+* Control buttons - the player needs a button to click to go gather minerals, or repair the ship, or conduct experiments.  If we go with the possibility of a 'bad trajectory' there may be a 'controlled burn' button to put the ship back on course.  There might also be some fun in having an 'eject' button that jettisons the crew in an escape pod.  It might be NASA-thematic, but certainly kind of hard to gamify.
+* Score - I guess the player might want to see their score throughout.  And if they click it, they could see a log of the scored events.
+
+**Milestones**
+// In the original Oregon Trail, the player periodically would encounter towns, forts, rivers and landmarks.  There's not a lot of those in space.  All of the analogs I've imagined so far involve asteroids or planetlets.  Comets wouldn't really be all that realistic, although space junk might be - or perhaps some easter eggs like an ancient chinese rocket-chair. lol.  I think a lot of the magic will be in coming up with a list of 15-20 milestones/landmarks that are each unique, interesting, but realistic to the game.  Another point to think about is that the original game followed a linear path and hit all the same landmarks -- the trajectory-based approach would logically miss some landmarks or perhaps hit them in a different order.  That might mean that we need more landmarks, or a grid-based approach, or a scoring system that incentivizes the player to hit as many landmarks as possible.
+// This approach leans heavily towards letting the player choose an initial macro trajectory before launch and then adjust the trajectory throughout the game.  THey could think that they are going to hit the "abandoned soviet moon probe" to pick up some extra spacesuits, but as they get closer, it would become apparent that they need to adjust course on the micro level.  HMMM.
