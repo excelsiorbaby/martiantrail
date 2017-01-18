@@ -122,6 +122,9 @@ A game where you go to Mars.  Ha!
 
 **Colonization**
 // The intended end of the game involves landing on Mars and setting up a colony.  
+// In my mind, this is an entire phase, where you watch the crew land and begin combining your resources into colony parts.  I don't foresee it being a particularly interactive phase, more of a 'see what grows' thing. 
+// For example, if you brought 2 hydroponics labs and 3 incinerators, you might come up with some sort of carbon-nanotube production.  I don't know.  That seems way too complex.  I was thinking more like recipes -- '1 habitat' '1 humidifier' and '2 conveyor belts' becomes a tomato factory.  But that seems blah.  
+// Perhaps we lose the second 'phase' aspect to the game and score based on the supplies that make it to Mars.  There should be a difference between arriving with 800 rations and arriving with 200 rations and a food production unit.  I don't want it to be ridiculously complex though.  There's also the affects of the RNG on the supply missions - if your dune buggy was on a failed mission - then you can't go get the supply drop that fell on the south pole.  etc.
 
 **Player Console**
 // During the game, the player will need to see certain information.
@@ -135,3 +138,7 @@ A game where you go to Mars.  Ha!
 **Milestones**
 // In the original Oregon Trail, the player periodically would encounter towns, forts, rivers and landmarks.  There's not a lot of those in space.  All of the analogs I've imagined so far involve asteroids or planetlets.  Comets wouldn't really be all that realistic, although space junk might be - or perhaps some easter eggs like an ancient chinese rocket-chair. lol.  I think a lot of the magic will be in coming up with a list of 15-20 milestones/landmarks that are each unique, interesting, but realistic to the game.  Another point to think about is that the original game followed a linear path and hit all the same landmarks -- the trajectory-based approach would logically miss some landmarks or perhaps hit them in a different order.  That might mean that we need more landmarks, or a grid-based approach, or a scoring system that incentivizes the player to hit as many landmarks as possible.
 // This approach leans heavily towards letting the player choose an initial macro trajectory before launch and then adjust the trajectory throughout the game.  THey could think that they are going to hit the "abandoned soviet moon probe" to pick up some extra spacesuits, but as they get closer, it would become apparent that they need to adjust course on the micro level.  HMMM.
+// Part of the problem here is that the landmarks, decisions and choices in the original game comprise a small set that is memorable and iconic.  The addition of a 3-dimensional space and changing trajectory eliminate the linear nature of the original game.  I think that careful design can mimic this feeling and charm, but still seem realistic.
+
+**Landing Minigame**
+// There seems like ample opporutnity to create a fun lander minigame.  The ship will need to land on Mars, so giving the player the opporutnity to screw it all up at the last minute sounds fun - and faithful to the original game.
