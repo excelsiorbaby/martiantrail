@@ -101,3 +101,17 @@ A game where you go to Mars.  Ha!
 
 **Mining Minigame**
 // In the original Oregon Trail, the player used ammunition to go out and shoot animals for food.  Based on their location on the map, the food was plentiful or scare, and the selection of animals changed occasionally.  In this game, we're going to analog that to the collection raw minerals using a harpoon-like space gun.  I'll need to do some research on what may actually be found on asteroids, but assumedly, asteroids will glide by with crystals of water, hydrogen, helium, oxygen, etc. attached to the asteroid.  Harpooning a loaded asteroid will yeild a quantity of mineral energy.  We'll assume that the crew turns hydrogen and oxygen and water into food or something like that.  Ideally, this process is simplified for the player - they harpoon three waters and 2 oxygens, so the game says "You collected 5 energy.  The replicator machine created 8 food rations." or something to that effect.
+// In order to go out harpooning, you need spacesuits and/or harpoons.  Not sure I'm sold on having 'harpoons' as a consumable item, but I'll have to give that some thought.
+
+
+**Trajectories**
+// There is, of course, an ideal trajectory between Earth and Mars.  There is a point when they are closest together and that date occurs every two years.  There's also the moon in the way.  And perhaps some other asteroids of note, if some research could pull together a list.  Now, obviously orbital mechanics are a bit much for a game, so we need to dumb this down into something fun, calculable, and strategic.
+// You could choose between a collection of launch sites and landing sites.  
+// Some additional complexity/scoring could be introduced if you land your supply missions at a different location than the crew mission.  You'd have to bring a dune buggy to be able to score the supply drops.  This sounds too complex.
+// You could choose from a variety of pre-set trajectories, similar to choosing whether to go to Chimney Rock or continue through the mountain pass.  That's a little boring, but true to the original game.
+// I can picture an interface where you adjust the calendar by clicking up/down and with each changed day, you see a minor change to the trajectory, where at the extreme ends, you miss Mars entirely.  While the interface seems simple, the strategic value of this is like nothing and it sounds like busy work finding the right day on the calendar.
+// Compounding on that boring idea, you could display the relative fuel requirements of each launch date/trajectory and let the player make a choice.
+// Even further, there could be a minimum amount of time between launches, say 2 weeks between.  There may be a 3-month window of time to launch at each parahelion - so the player would have to carefully time it to get 5 launches in there (still kind of boring).  The trick could be that the moon gets in the way at certain dates - although I think the moon moves faster than that and it would get complex too fast.  It doesn't have to be 100% realistic, but we're going for high 90% at least.
+// All that said, the idea behind trajectories is to instill in the player that there is a short period of time in which Earth and Mars are closest together.  It's an educational game, after all.  The player's simple calculcations to find the ideal trajectory should inform them on the basic mission plan for SLS.
+
+
