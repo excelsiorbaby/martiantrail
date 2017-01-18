@@ -118,6 +118,7 @@ A game where you go to Mars.  Ha!
 // As each supply mission departs on its trajectory, there will be a countdown showing the time and number of miles (kilometers?  nautical miles?) remaining on the journey.  Supply missions are not piloted by the player, but are affected by the RNG.
 // A possible minigame could mimic the journey down the Snake River, where the player must pilot the ship between asteroids using the directional pad.  I find the asteroid stuff a bit cliche, so i'm not stuck on this, but otherwise the game is probably a bit dull.
 // I'm more interested in a slightly more complex trajectory planning minigame, where the player must remember and adjust to any modifications to the trajectory.  However, I don't want to get into Kerbal territory, or anything that requires more than a directional pad or point-and-shoot interface.
+// It occurs to me that one of the scoring aspects could be "soonest to step foot on Mars" which would incentivize careful fuel/trajectory choices.
 
 **Colonization**
 // The intended end of the game involves landing on Mars and setting up a colony.  
