@@ -16,4 +16,4 @@ rocketcount = int(input(""))
 print('')
 time.sleep(1) # delays for 1 seconds
 print_slow("Cool.  %s rockets. \n" % rocketcount)
-print_slow("The end. \n" % rocketcount)
+print_slow("The end. \n")
